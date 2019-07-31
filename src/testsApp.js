@@ -8,10 +8,6 @@ import { testsFetch } from './redux/actions/tests';
 
 const url = "https://api.myjson.com/bins/15iptp";
 
-
-
-
-
 class TestsApp extends Component {
 
     componentDidMount() {
@@ -28,10 +24,10 @@ class TestsApp extends Component {
         }
 
         const tests = this.props.tests;
-        console.log(tests);
+
         return (<div className="testsApp">
                     <h5> Tests: </h5>
-            <TestList tests={tests}/>
+                    <TestList tests={tests} />
                 </div>
         );
     }
@@ -41,10 +37,7 @@ TestsApp.propTypes = {
     testsFetch: PropTypes.func.isRequired,
     tests: PropTypes.array.isRequired,
     hasErrored: PropTypes.bool.isRequired,
-    isLoading: PropTypes.bool.isRequired,
-
-    currentTest: PropTypes.object
-
+    isLoading: PropTypes.bool.isRequired
 };
 
 const mapStateToProps = (state) => {
@@ -52,8 +45,7 @@ const mapStateToProps = (state) => {
     return {
         tests: state.tests ,
         hasErrored: state.testsHasErrored,
-        isLoading: state.testsIsLoading,
-        currentTest: state.currentTest || null
+        isLoading: state.testsIsLoading
     };
 };
 

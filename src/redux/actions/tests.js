@@ -1,5 +1,5 @@
 import { TESTS_HAS_ERRORED, TESTS_IS_LOADING, TESTS_FETCH_DATA_SUCCESS } from "../actionTypes";
-import { TEST_START } from "../actionTypes";
+import { TEST_START, QUESTION_SET, ANSWERS_COUNT_INCREMENT, SCORE_INCREMENT } from "../actionTypes";
 
 export function testsHasErrored(bool) {
     return {
@@ -48,6 +48,27 @@ export function testsFetch(url) {
 export function testStart(test) {
     return {
         type: TEST_START,
-        currentTest: test
+        test: test
+    };
+}
+
+
+export function questionSet(questionIndex) {
+    return {
+        type: QUESTION_SET,
+        questionIndex: questionIndex
+    };
+}
+
+
+export function answersCountIncrement() {
+    return {
+        type: ANSWERS_COUNT_INCREMENT
+    };
+}
+
+export function scoreIncrement() {
+    return {
+        type: SCORE_INCREMENT
     };
 }
