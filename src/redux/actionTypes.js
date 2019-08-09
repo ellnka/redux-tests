@@ -6,8 +6,11 @@ export const GAME_START = "GAME_START";
 export const GAME_HAS_ERRORED = "GAME_HAS_ERRORED";
 export const GAME_IS_LOADING = "GAME_IS_LOADING";
 export const GAME_FETCH_DATA_SUCCESS = "GAME_FETCH_DATA_SUCCESS";
+export const GAME_SELECTED = "GAME_SELECTED";
 export const GAME_STARTED = "GAME_STARTED";
 export const GAME_FINISHED = "GAME_FINISHED";
+export const SET_QUESTION = "SET_QUESTION";
+export const GAME_RESET = "GAME_RESET";
 
 ///////
 export const QUESTION_SET = "QUESTION_SET";

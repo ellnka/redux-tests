@@ -20,3 +20,12 @@ code {
 .gameCards {
   margin: 5px;
 }
+
+.question {
+  margin-top: 10px;
+}
+
+.question-img {
+  object-fit: cover;
+  max-height: 150px;
+}

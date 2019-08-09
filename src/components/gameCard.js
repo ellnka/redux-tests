@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import PropTypes from "prop-types";
 import { connect } from "react-redux";
 import { gameFetch } from "../redux/actions/game";
-import { IMG_URL, GAME_URL } from "../redux/consts"
+import { IMG_URL, GAME_URL } from "../redux/consts";
 
 
 class GameCard extends Component{

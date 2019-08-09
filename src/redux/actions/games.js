@@ -1,4 +1,3 @@
-import axios from "axios";
 import {
     GAMES_HAS_ERRORED,
     GAMES_IS_LOADING,
