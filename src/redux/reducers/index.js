@@ -1,5 +1,13 @@
 import { combineReducers } from "redux";
-import { tests, testsHasErrored, testsIsLoading } from "./tests";
-import { test, questionIndex, answersCount, score } from "./tests";
+import { games, gamesHasErrored, gamesIsLoading } from "./games";
+import { game, gameHasErrored, gameIsLoading, gameIsStarted } from "./game";
 
-export default combineReducers({ tests, testsHasErrored, testsIsLoading, test, questionIndex, answersCount, score });
+export default combineReducers({
+    games,
+    gamesHasErrored,
+    gamesIsLoading,
+    game,
+    gameIsStarted,
+    gameHasErrored,
+    gameIsLoading,
+});

@@ -1,0 +1,473 @@
+{  
+   "version":4,
+   "key":"games/tsya-ili-tsya",
+   "title":"ТЬСЯ или ТСЯ?",
+   "second_title":"Тест «Медузы» и бумаги Ballet",
+   "settings":{  
+      "fly_out":false,
+      "time_limit":60,
+      "shuffle":false,
+      "question_limit":29,
+      "small_images":false,
+      "answer_indication":true,
+      "show_scores":true
+   },
+   "answers":{  
+      "right":"Все правильно",
+      "left":"Вижу ошибку"
+   },
+   "questions":{  
+      "q-35af6e2306be9bea17fc0e38bb50":{  
+         "id":"q-35af6e2306be9bea17fc0e38bb50",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/277/221/small/X3Nyus3x3UlrWV4ndz7LwQ.png",
+            "large_url":"/image/attachments/images/004/277/221/large/X3Nyus3x3UlrWV4ndz7LwQ.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"right"
+      },
+      "q-32a71edcaa0744333e26bad77111":{  
+         "id":"q-32a71edcaa0744333e26bad77111",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/277/278/small/UJNeBdCL7J61I_TJFEVUgA.png",
+            "large_url":"/image/attachments/images/004/277/278/large/UJNeBdCL7J61I_TJFEVUgA.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"right"
+      },
+      "q-dcc0bd4e6c703b58c5d35cd7ffad":{  
+         "id":"q-dcc0bd4e6c703b58c5d35cd7ffad",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/277/283/small/I75pvraC21xzkw-VAftSJw.png",
+            "large_url":"/image/attachments/images/004/277/283/large/I75pvraC21xzkw-VAftSJw.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"right"
+      },
+      "q-f2beaf0d7f0c1ec1488001f8ef7f":{  
+         "id":"q-f2beaf0d7f0c1ec1488001f8ef7f",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/277/288/small/O38ucXUQWEt8YBYhb8lUdQ.png",
+            "large_url":"/image/attachments/images/004/277/288/large/O38ucXUQWEt8YBYhb8lUdQ.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"right"
+      },
+      "q-a7e952b9f3c81508f74c379c1776":{  
+         "id":"q-a7e952b9f3c81508f74c379c1776",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/508/small/8j-GKcpqKiqBuBMdgrDuQQ.png",
+            "large_url":"/image/attachments/images/004/289/508/large/8j-GKcpqKiqBuBMdgrDuQQ.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"left"
+      },
+      "q-953fb74b61864ff1c4556c749257":{  
+         "id":"q-953fb74b61864ff1c4556c749257",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/513/small/M2Qnshq9_kicDfH95KgWNA.png",
+            "large_url":"/image/attachments/images/004/289/513/large/M2Qnshq9_kicDfH95KgWNA.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"right"
+      },
+      "q-68a869267b0423120f787b8e58f7":{  
+         "id":"q-68a869267b0423120f787b8e58f7",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/518/small/Az4guWmY7cuXGoUxKSaRcg.png",
+            "large_url":"/image/attachments/images/004/289/518/large/Az4guWmY7cuXGoUxKSaRcg.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"left"
+      },
+      "q-d7c6a1a3dfd76850ba4321a58d5b":{  
+         "id":"q-d7c6a1a3dfd76850ba4321a58d5b",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/523/small/xYTSrULckqLOTsQVyoxPKQ.png",
+            "large_url":"/image/attachments/images/004/289/523/large/xYTSrULckqLOTsQVyoxPKQ.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"left"
+      },
+      "q-19bccbf806add1ac7eb06addcc94":{  
+         "id":"q-19bccbf806add1ac7eb06addcc94",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/528/small/3C_jPeyUcthUtmWl-irKqg.png",
+            "large_url":"/image/attachments/images/004/289/528/large/3C_jPeyUcthUtmWl-irKqg.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"right"
+      },
+      "q-106136b3eedf42bba346232f1615":{  
+         "id":"q-106136b3eedf42bba346232f1615",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/533/small/-vnQ34xAp75f3jhkgx_bzQ.png",
+            "large_url":"/image/attachments/images/004/289/533/large/-vnQ34xAp75f3jhkgx_bzQ.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"right"
+      },
+      "q-c8f3426e1313ac278f2c75dd2542":{  
+         "id":"q-c8f3426e1313ac278f2c75dd2542",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/538/small/hb0NUUiBJmnmqW_t6Cwx1Q.png",
+            "large_url":"/image/attachments/images/004/289/538/large/hb0NUUiBJmnmqW_t6Cwx1Q.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"left"
+      },
+      "q-052afa58fa4fed8c72ddfbfa3f09":{  
+         "id":"q-052afa58fa4fed8c72ddfbfa3f09",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/543/small/ekSt0XTwPnfA7SLtIhsRxQ.png",
+            "large_url":"/image/attachments/images/004/289/543/large/ekSt0XTwPnfA7SLtIhsRxQ.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"left"
+      },
+      "q-b2f6dec029eb4bb4f45e129eab1e":{  
+         "id":"q-b2f6dec029eb4bb4f45e129eab1e",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/548/small/SyOPP32qrm48OiuLKa-lwg.png",
+            "large_url":"/image/attachments/images/004/289/548/large/SyOPP32qrm48OiuLKa-lwg.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"left"
+      },
+      "q-bcca5b1e82e8bb7769caa2991a9f":{  
+         "id":"q-bcca5b1e82e8bb7769caa2991a9f",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/553/small/DlupX72fhhTQItYTegsSiw.png",
+            "large_url":"/image/attachments/images/004/289/553/large/DlupX72fhhTQItYTegsSiw.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"right"
+      },
+      "q-c0ab469ea0ed34b045f7ccfc5bda":{  
+         "id":"q-c0ab469ea0ed34b045f7ccfc5bda",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/558/small/dguMcdS8aNsq_iaSDgfQ4g.png",
+            "large_url":"/image/attachments/images/004/289/558/large/dguMcdS8aNsq_iaSDgfQ4g.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"right"
+      },
+      "q-cde18f06fb09d54f3596b9a07838":{  
+         "id":"q-cde18f06fb09d54f3596b9a07838",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/563/small/fApz-2M3-Bn_kVBpwCoqbg.png",
+            "large_url":"/image/attachments/images/004/289/563/large/fApz-2M3-Bn_kVBpwCoqbg.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"right"
+      },
+      "q-6593c597e0fbcee40b1b74ca3e24":{  
+         "id":"q-6593c597e0fbcee40b1b74ca3e24",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/570/small/Htf1cRW28cYpjBC97TCISw.png",
+            "large_url":"/image/attachments/images/004/289/570/large/Htf1cRW28cYpjBC97TCISw.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"left"
+      },
+      "q-0c602444566adc3d42ffe9987663":{  
+         "id":"q-0c602444566adc3d42ffe9987663",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/575/small/dFdFf11lZjtCe1U5N6pIYA.png",
+            "large_url":"/image/attachments/images/004/289/575/large/dFdFf11lZjtCe1U5N6pIYA.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"right"
+      },
+      "q-ea2b904c08d3da94acc95af0b700":{  
+         "id":"q-ea2b904c08d3da94acc95af0b700",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/580/small/Z_THACLczUCf4LQ5LtxmOA.png",
+            "large_url":"/image/attachments/images/004/289/580/large/Z_THACLczUCf4LQ5LtxmOA.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"right"
+      },
+      "q-825388b5753405cc8435042deb95":{  
+         "id":"q-825388b5753405cc8435042deb95",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/585/small/XxDXOEvN9XV-o_V44KFoXw.png",
+            "large_url":"/image/attachments/images/004/289/585/large/XxDXOEvN9XV-o_V44KFoXw.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"right"
+      },
+      "q-f7fd0807ed4a9332f17b0f939ca9":{  
+         "id":"q-f7fd0807ed4a9332f17b0f939ca9",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/590/small/SsBsGZmnyK4oIsymA-Qdgw.png",
+            "large_url":"/image/attachments/images/004/289/590/large/SsBsGZmnyK4oIsymA-Qdgw.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"right"
+      },
+      "q-f3fdcb07097fd4645fbb5492b703":{  
+         "id":"q-f3fdcb07097fd4645fbb5492b703",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/595/small/7aSfsifQyy6wky0xJIXeNw.png",
+            "large_url":"/image/attachments/images/004/289/595/large/7aSfsifQyy6wky0xJIXeNw.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"left"
+      },
+      "q-b5d8f5c1c061a023e6f24e19f76e":{  
+         "id":"q-b5d8f5c1c061a023e6f24e19f76e",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/605/small/ct77pfuPL3OTQEb-Vkoo1w.png",
+            "large_url":"/image/attachments/images/004/289/605/large/ct77pfuPL3OTQEb-Vkoo1w.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"left"
+      },
+      "q-4a7009b2ae6048937239dce2a30a":{  
+         "id":"q-4a7009b2ae6048937239dce2a30a",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/610/small/CUb13nlCsNbHos3n0_efrQ.png",
+            "large_url":"/image/attachments/images/004/289/610/large/CUb13nlCsNbHos3n0_efrQ.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"left"
+      },
+      "q-3b53f6cb1a8327cc0997927588d0":{  
+         "id":"q-3b53f6cb1a8327cc0997927588d0",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/615/small/Dfi2rUDcCxdn4XHRE_FXnQ.png",
+            "large_url":"/image/attachments/images/004/289/615/large/Dfi2rUDcCxdn4XHRE_FXnQ.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"right"
+      },
+      "q-8f2f4baa0b41b547d47d144cda60":{  
+         "id":"q-8f2f4baa0b41b547d47d144cda60",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/620/small/teXokVqrF_CHu89IStKI4A.png",
+            "large_url":"/image/attachments/images/004/289/620/large/teXokVqrF_CHu89IStKI4A.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"right"
+      },
+      "q-d0f7ae944ec6404a19a916c6d1d8":{  
+         "id":"q-d0f7ae944ec6404a19a916c6d1d8",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/625/small/oTg4MDQAI2r37RMueM-bBw.png",
+            "large_url":"/image/attachments/images/004/289/625/large/oTg4MDQAI2r37RMueM-bBw.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"left"
+      },
+      "q-9fe7a59129783a2d0344a29fd0dc":{  
+         "id":"q-9fe7a59129783a2d0344a29fd0dc",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/630/small/LEnwAddaGpgK0FlFPbGpjA.png",
+            "large_url":"/image/attachments/images/004/289/630/large/LEnwAddaGpgK0FlFPbGpjA.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"right"
+      },
+      "q-b2b7def608b31d6ba63aff0bdbcb":{  
+         "id":"q-b2b7def608b31d6ba63aff0bdbcb",
+         "title":"ТЬСЯ или ТСЯ?",
+         "image":{  
+            "small_url":"/image/attachments/images/004/289/635/small/-p4jhCKetEHSun6-0aymxw.png",
+            "large_url":"/image/attachments/images/004/289/635/large/-p4jhCKetEHSun6-0aymxw.png",
+            "caption":"",
+            "credit":"",
+            "width":840,
+            "height":472
+         },
+         "correct":"left"
+      }
+   },
+   "question_ids":[  
+      "q-35af6e2306be9bea17fc0e38bb50",
+      "q-32a71edcaa0744333e26bad77111",
+      "q-dcc0bd4e6c703b58c5d35cd7ffad",
+      "q-f2beaf0d7f0c1ec1488001f8ef7f",
+      "q-a7e952b9f3c81508f74c379c1776",
+      "q-953fb74b61864ff1c4556c749257",
+      "q-68a869267b0423120f787b8e58f7",
+      "q-d7c6a1a3dfd76850ba4321a58d5b",
+      "q-19bccbf806add1ac7eb06addcc94",
+      "q-106136b3eedf42bba346232f1615",
+      "q-c8f3426e1313ac278f2c75dd2542",
+      "q-052afa58fa4fed8c72ddfbfa3f09",
+      "q-b2f6dec029eb4bb4f45e129eab1e",
+      "q-bcca5b1e82e8bb7769caa2991a9f",
+      "q-c0ab469ea0ed34b045f7ccfc5bda",
+      "q-cde18f06fb09d54f3596b9a07838",
+      "q-6593c597e0fbcee40b1b74ca3e24",
+      "q-0c602444566adc3d42ffe9987663",
+      "q-ea2b904c08d3da94acc95af0b700",
+      "q-825388b5753405cc8435042deb95",
+      "q-f7fd0807ed4a9332f17b0f939ca9",
+      "q-f3fdcb07097fd4645fbb5492b703",
+      "q-b5d8f5c1c061a023e6f24e19f76e",
+      "q-4a7009b2ae6048937239dce2a30a",
+      "q-3b53f6cb1a8327cc0997927588d0",
+      "q-8f2f4baa0b41b547d47d144cda60",
+      "q-d0f7ae944ec6404a19a916c6d1d8",
+      "q-9fe7a59129783a2d0344a29fd0dc",
+      "q-b2b7def608b31d6ba63aff0bdbcb"
+   ],
+   "result":{  
+      "shares":[  
+         {  
+            "title":"«-Ться» или «-тся» — какая разница!",
+            "subtitle":"Никто все равно не обращает внимания."
+         },
+         {  
+            "title":"Отлично придумали!",
+            "subtitle":"Нужно просто избегать глаголов с «-тся» и «-ться»."
+         },
+         {  
+            "title":"Вы все еще можете ошибиться.",
+            "subtitle":"Но правило знаете. Уважение!"
+         },
+         {  
+            "title":"Так хорошо разбираетесь, будто сами придумали!",
+            "subtitle":"Зачем вы это придумали?"
+         }
+      ],
+      "share_image":{  
+         "url":"https://meduza.io/image/attachments/images/004/277/202/large/vSdMLvhuz7kBvyoPjCuDNw.png",
+         "title":"ТЬСЯ или ТСЯ? Тест «Медузы» и бумаги Ballet",
+         "tag":"партнерский материал"
+      },
+      "share_text":[  
+         {  
+            "type":"p",
+            "data":"Этот тест мы подготовили вместе с брендом <a href=\"https://mdza.io/MbSPu74RJ38\" target=\"_blank\">Ballet</a> — одной из самых узнаваемых марок офисной бумаги в премиальном сегменте в России. В этом году Ballet стал официальной бумагой Тотального диктанта.",
+            "id":"0-share-text-c8d0cf7e5f30ed0fa8086af11fd1bea6fe2abaf50d2c0394bee574ad795c98d0"
+         },
+         {  
+            "type":"embed",
+            "_bg":null,
+            "data":{  
+               "html":"<a href='https://mdza.io/1jmbP2vGkFc' target='_blank'><img src='https://meduza.io/image/attachments/images/004/277/531/original/7wXFGvHsJQmMuXJQoo0X1A.jpg'></a>",
+               "width":1264,
+               "height":893,
+               "caption":"",
+               "credit":""
+            },
+            "id":"1-share-text-6e7c69e9cd49433abc6ce69fd3cdaabddb9824069639f8ef6347a2ae3992da1b"
+         }
+      ]
+   }
+}
