@@ -17,10 +17,12 @@ class GameGreeting extends Component {
             {this.props.game.second_title}
           </p>
 
-          <button className="btn btn-primary" onClick = {this._startOnClickHandler.bind(this)}>
+          <button
+            className="btn btn-primary"
+            onClick={this._startOnClickHandler.bind(this)}
+          >
             {this.props.game.settings.btn_start_text}
           </button>
-
         </div>
       </div>
     );
@@ -30,8 +32,6 @@ class GameGreeting extends Component {
     this.props.gameStart();
     this.props.setQuestion(0);
   }
-
-
 }
 
 GameGreeting.propTypes = {

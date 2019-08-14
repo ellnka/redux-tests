@@ -8,29 +8,25 @@ import Loading from "./components/loading";
 import { gamesFetch } from "./redux/actions/games";
 import { GAMES_URL } from "./redux/consts";
 
-
 class MeduzaApp extends Component {
-
-
   componentDidMount() {
-      this.props.gamesFetch(GAMES_URL);
+    this.props.gamesFetch(GAMES_URL);
   }
 
-    render() {
+  render() {
+    if (this.props.hasErrored) {
+      return <p> Ooops... Games cannot be loaded :-( </p>;
+    }
 
-        if (this.props.hasErrored) {
-            return <p> Ooops... Games cannot be loaded :-( </p>;
-        }
+    if (this.props.isLoading) {
+      return <Loading />;
+    }
 
-        if (this.props.isLoading) {
-            return <Loading />;
-        }
-
-        return (
-            <div className="meduzaApp container">
-                <Games games = { this.props.games } />
-            </div>
-        );
+    return (
+      <div className="meduzaApp container">
+        <Games games={this.props.games} />
+      </div>
+    );
   }
 }
 

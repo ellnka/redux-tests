@@ -4,6 +4,7 @@ import {
   GAME_FETCH_DATA_SUCCESS,
   GAME_STARTED,
   SET_QUESTION,
+  GAME_ANSWERED,
   GAME_FINISHED,
   GAME_RESET
 } from "../actionTypes";
@@ -31,6 +32,19 @@ export function gameIsStarted(state = false, action) {
   switch (action.type) {
     case GAME_STARTED:
       return true;
+    case GAME_RESET:
+      return false;
+    default:
+      return state;
+  }
+}
+
+export function gameCurrentAnswerId(state = "", action) {
+  switch (action.type) {
+    case GAME_ANSWERED:
+      return action.answer || "";
+    case SET_QUESTION:
+      return "";
     default:
       return state;
   }
@@ -40,6 +54,10 @@ export function gameIsFinished(state = false, action) {
   switch (action.type) {
     case GAME_FINISHED:
       return true;
+    case GAME_STARTED:
+      return false;
+    case GAME_RESET:
+      return false;
     default:
       return state;
   }
@@ -56,10 +74,25 @@ export function game(state = null, action) {
   }
 }
 
-export function gameCurrentQuestionId(state = 0, action) {
+export function gameAnswers(state = [], action) {
+  switch (action.type) {
+    case GAME_ANSWERED:
+      return action.answers;
+    case GAME_STARTED:
+      return [];
+    case GAME_RESET:
+      return [];
+    default:
+      return state;
+  }
+}
+
+export function gameCurrentQuestionId(state = "", action) {
   switch (action.type) {
     case SET_QUESTION:
       return action.question_id;
+    case GAME_RESET:
+      return "";
 
     default:
       return state;

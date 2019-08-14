@@ -3,6 +3,7 @@ import {
   GAME_IS_LOADING,
   GAME_FETCH_DATA_SUCCESS,
   GAME_STARTED,
+  GAME_ANSWERED,
   GAME_RESET,
   SET_QUESTION,
   GAME_FINISHED
@@ -11,6 +12,15 @@ import {
 export function gameStart() {
   return {
     type: GAME_STARTED
+  };
+}
+
+export function gameAnswer(answers, answer) {
+  answers[answers.length] = answer;
+  return {
+    type: GAME_ANSWERED,
+    answers: answers,
+    answer: answer
   };
 }
 
